@@ -5,7 +5,7 @@
       {
         "appID": "86A2URF89S.com.embria.themost",
         "paths": [
-          "/invites/creator/project/community/*"
+          "/invites/community/*"
         ]
       }
     ]
